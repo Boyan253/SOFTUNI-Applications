@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Books</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script defer src="src/app.js" type="module"></script>
+</head>
+<body>
+<button id="loadBooks">LOAD ALL BOOKS</button>
+<table>
+    <thead>
+    <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Action</th>
+    </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<form id="submitForm">
+    <h3>FORM</h3>
+    <label>TITLE</label>
+    <input type="text" name="title" placeholder="Title...">
+    <label>AUTHOR</label>
+    <input type="text" name="author" placeholder="Author...">
+    <button>Submit</button>
+</form>
+
+<form id="editForm">
+    <h3>Edit FORM</h3>
+    <label>TITLE</label>
+    <input type="text" name="title">
+    <label>AUTHOR</label>
+    <input type="text" name="author">
+    <button>Save</button>
+</form>
+</body>
+</html>
+
+<!--Feel free to change/update/modify the HTML Structure-->
+
+<!--yes, yes. added classes to buttons so we can attach only 1 event listener in JS,-->
+<!--not 520 762, moved script tag in head, added defer attribute
+added ID to submit form, added another form for the update, updated the name fields of the inputs
+added css in the file for initial displays of the forms-->
