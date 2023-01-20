@@ -37,10 +37,7 @@ _В курса "JS Applications" ще научите какво сa HTTP зая�
 - [x] [05. Car Tube](10%20Exam%20Prep%202/CarTube)
 
 
-[![GitHub stars](https://img.shields.io/github/stars/Boyan253/JS-Applications-October-2022.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Sineastra/JS-Advanced-January-2021/stargazers)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub forks](https://img.shields.io/github/forks/Sineastra/JS-Applications-February-2021.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Sineastra/JS-Advanced-January-2021/network/members)
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
